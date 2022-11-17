@@ -70,7 +70,7 @@ window.title('WEBSITE BLOCKER')
 
 #set Header
 Label(window,text='WEBSITE BLOCKER',font=('bold',15),fg='purple').pack()
-Label(window,text='Developed By @Manoj Kumar',font=('bold',12),fg='purple').pack(side=BOTTOM)
+Label(window,text='Developed By @Tanmaya Kumar',font=('bold',12),fg='purple').pack(side=BOTTOM)
 
 Label(window,text='Enter website :').place(x=100,y=50)
 enter_Website = Text(window,font=(10),width=30,height=1)
